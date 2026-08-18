@@ -1,7 +1,7 @@
-# Taskmaster
+# Guilty Until Proven
 
-> An agent is finished when it proves it is finished. Rejection is the
-> default, and the burden of proof is theirs.
+> An agent is guilty of not being done until it produces the command output.
+> There is no benefit of the doubt.
 
 A working directory for one job: driving other Claude Code sessions and refusing
 to let anything through that is not backed by evidence.
