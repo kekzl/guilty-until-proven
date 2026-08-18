@@ -1,7 +1,7 @@
-# Citation Needed
+# Taskmaster
 
-> Every claim an agent makes gets a `[citation needed]` until it produces the
-> command output. Rejection is the default.
+> An agent is finished when it proves it is finished. Rejection is the
+> default, and the burden of proof is theirs.
 
 A working directory for one job: driving other Claude Code sessions and refusing
 to let anything through that is not backed by evidence.
