@@ -6,9 +6,9 @@
 A working directory for one job: driving other Claude Code sessions and refusing
 to let anything through that is not backed by evidence.
 
-No code is built here. `CLAUDE.md` is the whole project - it is the operating
-manual the session in this directory follows: how assignments go out, how reports
-come back, what gets accepted, and what gets sent straight back as REWORK.
+No code is built here. `CLAUDE.md` is the operating manual the session in this
+directory follows: how assignments go out, how reports come back, what gets
+accepted, and what gets sent straight back as REWORK.
 
 ## What it actually does
 
